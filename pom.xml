@@ -77,7 +77,7 @@
 				<configuration>
 					<!-- replace `callicoder` with your docker id-->
 					<username>m7md3mmar</username>
-					<password>Docker123</password>
+					<password>password</password>
 					<repository>m7md3mmar/springboot-hello</repository>
 					<tag>${project.version}</tag>
 					<buildArgs>
